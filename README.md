@@ -6,7 +6,7 @@ Wireshark 1.99.9 compiled with MPI dissector and CentOS 8.0
       * https://www.wireshark.org/download/src/all-versions/
       * https://github.com/juhulian/mpi-dissector
         
-   #### and follow juhulian instructions...
+   #### and follow https://github.com/juhulian instructions...
 
 ### Compile:
 
